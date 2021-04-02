@@ -20,7 +20,7 @@ pkg update && pkg install git python2 -y && git clone https://github.com/Mohamma
 ```
 ### Find Me On :
 [![Github](https://img.shields.io/badge/Github-Mohammadjan1122-green?style=for-the-badge&logo=github)](https://github.com/Mohammadjan1122)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mohammad_sultani1122)
+[![Instagram](https://img.shields.io/badge/IG-%40mohammad_sultani-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mohammad_sultani1122)
 [![Telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sultani1122)
 
 

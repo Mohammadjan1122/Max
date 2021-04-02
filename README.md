@@ -24,4 +24,4 @@ pkg update && pkg install git python2 -y && git clone https://github.com/Mohamma
 [![Telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sultani1122)
 
 
-
+#mohammad_sultani
